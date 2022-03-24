@@ -13,6 +13,7 @@
 		4ECA48A827ECDFC800E8A990 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4ECA48A627ECDFC800E8A990 /* Main.storyboard */; };
 		4ECA48AA27ECDFC900E8A990 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4ECA48A927ECDFC900E8A990 /* Assets.xcassets */; };
 		4ECA48AD27ECDFC900E8A990 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4ECA48AB27ECDFC900E8A990 /* LaunchScreen.storyboard */; };
+		4ECA48B527ECEE1400E8A990 /* ImageCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ECA48B427ECEE1400E8A990 /* ImageCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4ECA48A927ECDFC900E8A990 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4ECA48AC27ECDFC900E8A990 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4ECA48AE27ECDFC900E8A990 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4ECA48B427ECEE1400E8A990 /* ImageCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				4ECA48A927ECDFC900E8A990 /* Assets.xcassets */,
 				4ECA48AB27ECDFC900E8A990 /* LaunchScreen.storyboard */,
 				4ECA48AE27ECDFC900E8A990 /* Info.plist */,
+				4ECA48B427ECEE1400E8A990 /* ImageCollectionViewCell.swift */,
 			);
 			path = PhotoSearch;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				4ECA48A527ECDFC800E8A990 /* ViewController.swift in Sources */,
 				4ECA48A127ECDFC800E8A990 /* AppDelegate.swift in Sources */,
+				4ECA48B527ECEE1400E8A990 /* ImageCollectionViewCell.swift in Sources */,
 				4ECA48A327ECDFC800E8A990 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
